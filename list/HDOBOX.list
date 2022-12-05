@@ -1,0 +1,4 @@
+＃＞ HDOBOX 去广告
+DOMAIN-SUFFIXapplovin.com,REJECT
+DOMAIN-SUFFIX,applvn.com,REJECT
+DOMAIN-SUFFIX, doubleclick.net,REJECT
